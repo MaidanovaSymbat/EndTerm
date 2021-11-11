@@ -1,0 +1,11 @@
+{
+  "name": "end-term",
+  "version": "1.0.0",
+  "description": "In this project we learnt how to build server. For that we use node.js. Node.js is an open source, cross-platform runtime environment for developing server-side and networking applications.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Symbat M.",
+  "license": "ISC"
+}
